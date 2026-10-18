@@ -1,0 +1,3 @@
+# Keep the package zips out of GitHub release / source archives.
+# They are still served individually via raw.githubusercontent.com.
+*.zip export-ignore
